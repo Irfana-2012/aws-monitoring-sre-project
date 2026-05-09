@@ -32,4 +32,4 @@ jobs:
             docker stop production-app || true
             docker rm production-app || true
             docker build -t production-app .
-            docker run -d -p 3000:3000 --name production-app production-app
+            docker run -d -p 3001:3000 --name production-app production-app
