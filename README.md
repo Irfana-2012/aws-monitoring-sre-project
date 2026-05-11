@@ -26,7 +26,8 @@
 
 
 ## Screenshots
-(Add Grafana dashboard screenshots)
+<img width="1366" height="768" alt="network-traffic" src="https://github.com/user-attachments/assets/e84bb598-ce36-4d7f-bfd5-8dd4fe5be8af" />
+
 
 ## Setup Instructions
 (Add deployment steps)
