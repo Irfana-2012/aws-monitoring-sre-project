@@ -26,7 +26,7 @@
 
 
 ## Screenshots
-<img width="1366" height="768" alt="grafana-all-metrics" src="https://github.com/user-attachments/assets/25dc14f7-941e-44ad-b61b-f821e93deae1" />
+<img width="1366" height="768" alt="grafana--dashboard" src="https://github.com/user-attachments/assets/87cd3253-ae1d-4767-b075-6f28d9d2de38" />
 <img width="1366" height="768" alt="grafana-all-metrics" src="https://github.com/user-attachments/assets/88852d26-ad45-44b9-a26f-9b8990de466b" />
 <img width="1366" height="768" alt="network-traffic" src="https://github.com/user-attachments/assets/e84bb598-ce36-4d7f-bfd5-8dd4fe5be8af" />
 
