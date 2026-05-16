@@ -29,7 +29,6 @@
 <img width="1366" height="667" alt="grafana-all-metrics" src="https://github.com/user-attachments/assets/adbf9510-0a63-454d-9898-188023b554bd" />
 <img width="1366" height="697" alt="import-node-exporter" src="https://github.com/user-attachments/assets/8df0b816-8d62-4fc3-a219-d11822d668ff" />
 <img width="1366" height="672" alt="network-traffic" src="https://github.com/user-attachments/assets/6c4de304-968b-4793-a070-3f609eb0f34d" />
-<img width="1366" height="768" alt="grafana-dashboard" src="https://github.com/user-attachments/assets/80fafab9-3c4c-4f06-8e74-5dd58bacda51" />
 
 ## Setup Instructions
 # Deployment Instructions
