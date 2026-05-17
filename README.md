@@ -68,9 +68,7 @@ docker --version
 <img width="1366" height="577" alt="docker-running" src="https://github.com/user-attachments/assets/893786a5-ebfa-4907-a08f-526e6bed6475" />
 <img width="1366" height="685" alt="flask-app" src="https://github.com/user-attachments/assets/9b6fc62a-984b-42dc-b59e-30225730f00d" />
 
-## clone GitHub Repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+## GitHub Repository
 <img width="1366" height="768" alt="ci-cd" src="https://github.com/user-attachments/assets/b3cab741-53aa-4cd4-b0e6-65899aa88321" />
 <img width="1366" height="677" alt="ci-cd-git" src="https://github.com/user-attachments/assets/10641f18-a228-42bc-beb2-853904acf5c3" />
 
